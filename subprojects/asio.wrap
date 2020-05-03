@@ -1,0 +1,7 @@
+[wrap-git]
+directory = asio
+url = https://github.com/chriskohlhoff/asio.git
+revision = asio-1-14-0
+
+# the original was:
+# clone --branch asio-1-14-0 --depth=1 https://github.com/chriskohlhoff/asio.git
